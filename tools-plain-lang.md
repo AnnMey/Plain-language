@@ -16,7 +16,7 @@ by Anna Meyer, 08 Jan 2022
 
 
 ## Introduction
-The aim of this report is to compare the available product documentation for three project management tools:  
+The aim of this report is to compare the product documentation for three project management tools:  
 
 * **Jira** and **Confluence** by Atlassian, and  
 * **Flare** by MadCap  
@@ -30,32 +30,40 @@ The **Official User Guides** that describe [Jira](https://www.atlassian.com/soft
 * *Features*
 * *Product guide*
 * *Pricing*
-* *Enterprise*
-
+* *Enterprise*  
+___
 ![Tabs](pics/Tabs.png)
 
-For Confluence, there is an additional tab dedicated to *Templates*, which lists available templates divided into categories.  
+Confluence has an additional *Templates* tab, which lists available templates. The templates are divided into categories.  
+___
+![Templates](pics/Confluence.png)  
 
-![Templates](pics/Confluence.png)
 
 ### **Advantages**
-The basic product information provided by Atlassian is clear and well-structured as well as aesthetically pleasing. Features are described in a concise way (one sentence per feature). The Product guide provides the user with a brief overview of the tool, a quick start guide, best practices, demo versions, and tutorials, including video tutorials.  
-
+The basic product information is clear and well-structured. Features are described in a concise way, there is one sentence for each feature.  
+The Product guide includes: 
+* a brief overview of the tool, 
+* a quick start guide, 
+* best practices, 
+* demo versions, 
+* tutorials, and 
+* video tutorials.  
+___
 ![Tabs](pics/Jira.png)
 
 ### **Disadvantages**
-While the information is comprehensive, it may be slightly overwhelming, especially for an unexperienced user. Even the 101 / getting started sections contain a vast amount of information, making it difficult to follow.  
-
-Some of the hyperlinked information leads to external resources, like YouTube, Atlassian Univeristy or Agile Coach, which proliferates the general feeling that the software is complicated and not as user-friendly as it may seem at first glance.  
+The “Get started” contains a lot of information. For this reason, you may find it difficult to follow.
 
 ## Flare overview
-**MadCap Flare** is a single-source publishing tool developed by MadCap Software.  
+**MadCap Flare** is a tool for single-source publishing developed by MadCap Software.  
 
-The product page offers a 30-day trial and an [Overview](https://www.madcapsoftware.com/products/flare/#content) of the tool.
+In the product page there is:  
+* a 30-day trial, and 
+* an [Overview](https://www.madcapsoftware.com/products/flare/#content) of the tool.
 
 ### **Advantages**
-The Overview section provides comprehensive information about the tool, preceded by links to subsections dedicated to different functions that can be performed with the use of Flare.
-
+At the beginning of the Overview section, there are links to subsections dedicated to different functions of Flare.
+___
 ![Flare](pics/Flare.png)
 
 This menu is followed by a flowchart depicting possible file formats and the order of processes in twich the functions can be realised.
@@ -65,6 +73,7 @@ The whole product Overview is available in a single-flow description, which prov
 ### **Disadvantages**
 For whatever reason, the order of the general menu tabs seems a bit random:  
 
+___
 ![Flare Tabs](pics/Flare_Menu.png)
 
 The *Why Flare?* tab would make more sense between the *Overview* and *What’s New* tabs.  
@@ -78,6 +87,7 @@ In general, there is too much visual material, like icons and screenshots. They 
 ## Conclusion
 The tools described in this report constitute complex and versatile software. Having this in mind, the provided documentation is as clear, concise and user-friendly as it gets.  
 
+___
 ![Cry](pics/spider-man-gonna-cry.gif)
 
 But jokes aside, both formats of information presentation have their pros and cons. The nature of Jira, Confluence and Flare software – being umbrella applications covering numerous features and functions – makes them difficult to describe in a way that is both comprehensive and concise.  
